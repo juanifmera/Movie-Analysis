@@ -1,5 +1,3 @@
-Movies Correlation Analysis
-
 🎬 Welcome to the Movies Correlation Analysis Project! 🎬
 
 Dive into the fascinating world of cinema data analysis with this project that uncovers the correlations between various movie features. Whether you're a data enthusiast or a movie buff, this repository offers insightful analysis and visualization of movie data.
